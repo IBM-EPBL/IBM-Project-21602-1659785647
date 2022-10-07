@@ -1,3 +1,8 @@
+ASSIGNMENT - 3
+02 OCTOBER 2022
+
+Write a Python Code for blinking LED and Traffic Lights for Raspberry Pi
+
 import RPi.GPIO as GPIO
 import time
 import signal
